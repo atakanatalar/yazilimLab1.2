@@ -1,0 +1,16 @@
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\bin\Debug\SudokuGUI.exe.config
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\bin\Debug\SudokuGUI.exe
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\bin\Debug\SudokuGUI.pdb
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.Form1.resources
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.Properties.Resources.resources
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.exe
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.pdb
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\bin\Debug\SudokuProject.exe
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\bin\Debug\SudokuProject.pdb
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\bin\Debug\SudokuProject.exe.config
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.csproj.CopyComplete
+C:\Users\yasin\source\repos\SudokuProject\SudokuGUI\obj\Debug\SudokuGUI.Form2.resources

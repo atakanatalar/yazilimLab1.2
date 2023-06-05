@@ -1,0 +1,8 @@
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\bin\Debug\SudokuProject.exe.config
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\bin\Debug\SudokuProject.exe
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\bin\Debug\SudokuProject.pdb
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.exe
+C:\Users\yasin\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.pdb
